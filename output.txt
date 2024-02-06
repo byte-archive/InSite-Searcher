@@ -1,0 +1,39 @@
+Query: simple search engine nonexistentWord
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: search engine project
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: engine?
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: search!
+Results: ['C:\\Users\\prathamesh\\Documents\\page3.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: the search engine
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: PROJECT
+Results: ['C:\\Users\\prathamesh\\Documents\\page2.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: simple project
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: page one
+Results: ['C:\\Users\\prathamesh\\Documents\\page2.html', 'C:\\Users\\prathamesh\\Documents\\page3.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: search
+Results: ['C:\\Users\\prathamesh\\Documents\\page3.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: welcome
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: search
+Results: ['C:\\Users\\prathamesh\\Documents\\page3.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: engine
+Results: ['C:\\Users\\prathamesh\\Documents\\page1.html']
+
+Query: page of the
+Results: ['C:\\Users\\prathamesh\\Documents\\page2.html', 'C:\\Users\\prathamesh\\Documents\\page3.html', 'C:\\Users\\prathamesh\\Documents\\page1.html']
+
